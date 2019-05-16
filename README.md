@@ -7,7 +7,7 @@ More info about the method can be found [here](http://people.fjfi.cvut.cz/blazej
 
 All of the codes initially load all Data#.txt files in the directory (values of power vs position and their uncertanties) and fit (least square) them using a complementary error function, according to the knife-edge method.
 Then:
-- M2.py plots w vs z, fits the plot, calculates waist, divergence and M-squared for both the real and theoretical beam and save the results;
+- M-squared.py plots w vs z, fits the plot, calculates waist, divergence and M-squared for both the real and theoretical beam and save the results;
 - Beam Profile (2D).py  calculates the first derivatives of the fit functions, plots them one at the time next to an indicator of the value of z and combine these plots into a gif;
 - Beam Profile (3D).py  calculates the first derivatives of the fit functions, plots them all together in a  3D frame, saves 360 copies of it (rotating the frame of 1 deg each time) and combine all the plots into a gif.
 
