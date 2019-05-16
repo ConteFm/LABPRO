@@ -14,7 +14,8 @@ Then:
 ## Output Example
 
 The output gifs of Beam Profile (2D).py and Beam Profile (3D).py obtained by the Author are shown below:
-<img src="https://github.com/ConteFm/LABPRO/blob/master/Profile_Evolution.gif" width="60%" height="60%"> <img src="https://github.com/ConteFm/LABPRO/blob/master/Profile_Rotation.gif" width="60%" height="60%">
+![](Porfile_Evolution.gif)
+![](Profile_Rotation.gif)
 
 ## About
 
