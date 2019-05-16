@@ -11,7 +11,7 @@ Then:
 - Beam Profile (2D).py  calculates the first derivatives of the fit functions, plots them one at the time next to an indicator of the value of z and combine these plots into a gif;
 - Beam Profile (3D).py  calculates the first derivatives of the fit functions, plots them all together in a  3D frame, saves 360 copies of it (rotating the frame of 1 deg each time) and combine all the plots into a gif.
 
-## Output
+## Output Example
 
 The output gifs of Beam Profile (2D).py and Beam Profile (3D).py obtained by the Author are shown below:
 ![](Profile_Evolution.gif)
