@@ -1,4 +1,4 @@
-# LAser Beam PROfiling
+# *LA*ser *B*eam *PRO*filing
 
 This repository contains three .py files written in python to analyse data from a laboratory activity on measuring the waist, divergence and M-squared of an infrared ultrashort pulse laser using the knife-edge method.
 More info about the method can be found [here](http://people.fjfi.cvut.cz/blazejos/public/ul7en.pdf). 
