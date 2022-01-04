@@ -19,7 +19,7 @@ The output gifs of Beam Profile (2D).py and Beam Profile (3D).py obtained by the
 
 ## About
 
-The code was written by Filippo M. Conte in May 2019 for a laboratory activity conducted within the “Introduction to Laser Physics” course of Prof. A. Ancona,  University of Bari.
+The code was written by Filippo Maria Conte Capodacqua in May 2019 for a laboratory activity conducted within the “Introduction to Laser Physics” course of Prof. A. Ancona,  University of Bari.
 
 ## License
 
